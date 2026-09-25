@@ -1,0 +1,13 @@
+field,value,where_to_find_it
+bank_name,,Your label for the bank
+year,,e.g. Mar 2026
+type,,PSU or Private
+cet1_capital_crore,,Regulatory capital note: Common Equity Tier 1 capital (Rs crore)
+govt_htm_cost_crore,,Composition of investment portfolio: Government securities / HTM at cost
+govt_htm_fair_value_crore,,Same table: HTM fair value
+govt_afs_crore,,Same table: AFS
+govt_fvtpl_crore,,Same table: FVTPL (HFT + non-HFT)
+maturity_upto_1y_crore,,Maturity pattern: Investments row - add all buckets up to 1 year
+maturity_1_3y_crore,,Maturity pattern: 1-3 years
+maturity_3_5y_crore,,Maturity pattern: 3-5 years
+maturity_over_5y_crore,,Maturity pattern: over 5 years
