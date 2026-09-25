@@ -1,45 +1,45 @@
-"bank,bucket,amount_crore"
-"SBI,1 day,226.50"
-"SBI,2-7 days,806.32"
-"SBI,8-14 days,2701.97"
-"SBI,15-30 days,9624.99"
-"SBI,31 days-2 months,13579.02"
-"SBI,2-3 months,10534.27"
-"SBI,3-6 months,33539.72"
-"SBI,6 months-1 year,112171.91"
-"SBI,1-3 years,284089.41"
-"SBI,3-5 years,431889.11"
-"SBI,over 5 years,902090.86"
-"HDFC,1 day,214529.94"
-"HDFC,2-7 days,30256.65"
-"HDFC,8-14 days,14524.74"
-"HDFC,15-30 days,42532.84"
-"HDFC,31 days-2 months,34583.75"
-"HDFC,2-3 months,35880.28"
-"HDFC,3-6 months,31861.69"
-"HDFC,6 months-1 year,66410.65"
-"HDFC,1-3 years,185640.79"
-"HDFC,3-5 years,19629.47"
-"HDFC,over 5 years,208350.67"
-"ICICI,1 day,109940.34"
-"ICICI,2-7 days,18251.58"
-"ICICI,8-14 days,14045.92"
-"ICICI,15-30 days,26074.36"
-"ICICI,31 days-2 months,15595.22"
-"ICICI,2-3 months,10140.78"
-"ICICI,3-6 months,18627.22"
-"ICICI,6 months-1 year,22504.82"
-"ICICI,1-3 years,53017.49"
-"ICICI,3-5 years,86404.45"
-"ICICI,over 5 years,116616.39"
-"BOB,1 day,1733.16"
-"BOB,2-7 days,60474.37"
-"BOB,8-14 days,3720.30"
-"BOB,15-30 days,7564.61"
-"BOB,31 days-2 months,17588.09"
-"BOB,2-3 months,12196.77"
-"BOB,3-6 months,22472.77"
-"BOB,6 months-1 year,63831.72"
-"BOB,1-3 years,64381.38"
-"BOB,3-5 years,24738.15"
-"BOB,over 5 years,103704.39"
+bank,bucket,amount_crore
+SBI,1 day,226.50
+SBI,2-7 days,806.32
+SBI,8-14 days,2701.97
+SBI,15-30 days,9624.99
+SBI,31 days-2 months,13579.02
+SBI,2-3 months,10534.27
+SBI,3-6 months,33539.72
+SBI,6 months-1 year,112171.91
+SBI,1-3 years,284089.41
+SBI,3-5 years,431889.11
+SBI,over 5 years,902090.86
+HDFC,1 day,214529.94
+HDFC,2-7 days,30256.65
+HDFC,8-14 days,14524.74
+HDFC,15-30 days,42532.84
+HDFC,31 days-2 months,34583.75
+HDFC,2-3 months,35880.28
+HDFC,3-6 months,31861.69
+HDFC,6 months-1 year,66410.65
+HDFC,1-3 years,185640.79
+HDFC,3-5 years,19629.47
+HDFC,over 5 years,208350.67
+ICICI,1 day,109940.34
+ICICI,2-7 days,18251.58
+ICICI,8-14 days,14045.92
+ICICI,15-30 days,26074.36
+ICICI,31 days-2 months,15595.22
+ICICI,2-3 months,10140.78
+ICICI,3-6 months,18627.22
+ICICI,6 months-1 year,22504.82
+ICICI,1-3 years,53017.49
+ICICI,3-5 years,86404.45
+ICICI,over 5 years,116616.39
+BOB,1 day,1733.16
+BOB,2-7 days,60474.37
+BOB,8-14 days,3720.30
+BOB,15-30 days,7564.61
+BOB,31 days-2 months,17588.09
+BOB,2-3 months,12196.77
+BOB,3-6 months,22472.77
+BOB,6 months-1 year,63831.72
+BOB,1-3 years,64381.38
+BOB,3-5 years,24738.15
+BOB,over 5 years,103704.39
