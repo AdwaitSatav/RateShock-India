@@ -1,3 +1,5 @@
-"bank,type,year,govt_securities_india_crore,total_investments_crore,cet1_capital_crore,cet1_ratio_pct,htm_crore,afs_crore,fvtpl_crore,source_pages"
-"SBI,PSU,Mar 2026,1465979.36,1801254.08,486848.03,12.29,,,,"
-"HDFC,Private,Mar 2026,781055.07,884201.47,514070.42,17.28,,,,"
+"bank,type,year,govt_securities_india_crore,total_investments_crore,cet1_capital_crore,cet1_ratio_pct,govt_htm_cost_crore,govt_htm_fair_value_crore,govt_afs_crore,govt_fvtpl_crore,source_pages"
+"SBI,PSU,Mar 2026,1465979.36,1801254.08,486848.03,12.29,1227171.93,1213295.38,150885.40,87922.01,"
+"HDFC,Private,Mar 2026,781055.07,884201.47,514070.42,17.28,658951.82,650516.69,83885.30,38217.95,"
+"SBI,PSU,Mar 2025,1326676.69,1690572.74,394378.80,10.81,1151035.10,1173865.38,113856.67,61784.92,"
+"HDFC,Private,Mar 2025,765230.14,836359.67,458210.41,17.23,596551.53,607728.09,136517.66,32160.95,"
